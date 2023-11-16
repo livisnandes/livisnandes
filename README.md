@@ -1,12 +1,12 @@
 ### Hi there! I'm Lívia Fernandes 👋😀!! 
 ### Welcome to my page!
 
-<a>- 🌱 I’m currently learning devolelopment code, veterinary medicine.<a/>
-<a>- 💬 Ask me about animals, coding, music and sport. <a/>
-<a>- 📫 How to reach me: meeting, working, contracts.<a/>
-<a>- 😄 Pronouns: she/her<a/>
-<a>- ⚡ Define me: play guitar, ride a horse, tricot, ballet, books, contrylife, faith.<a/>
-<a>- 🌼 Always learning on life!<a/>
+<div> - 🌱 I’m currently learning devolelopment code, veterinary medicine. </div>
+<div>- 💬 Ask me about animals, coding, music and sport. </div>
+<div>- 📫 How to reach me: meeting, working, contracts.</div>
+<div>- 😄 Pronouns: she/her</div>
+<div>- ⚡ Define me: play guitar, ride a horse, tricot, ballet, books, contrylife, faith.</div>
+<div>- 🌼 Always learning on life!</div>
 
 
  <div>

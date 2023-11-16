@@ -1,4 +1,4 @@
-### Hi there! I'm Lívia Fernandes!! 
+### Hi there! I'm Lívia Fernandes 👋😀!! 
 ### Welcome to my page!
 
  <div>

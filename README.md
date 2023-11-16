@@ -1,4 +1,5 @@
-### Hi there! I'm Guilherme Mendes
+### Hi there! I'm Lívia Fernandes!! 
+### Welcome to my page!
 
  <div>
   <a href="https://www.hackerrank.com/livisnandes">
@@ -14,7 +15,7 @@
   <a href="https://instagram.com/liviafg.ml" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
 
-  [Snake animation](https://github.com/livisnandes/livisnandes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/livisnandes/livisnandes/blob/output/github-contribution-grid-snake.svg)
 
  </div>
 

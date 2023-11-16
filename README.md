@@ -1,5 +1,4 @@
-### Hi there! I'm Lívia Fernandes 👋😀!! 
-### Welcome to my page!
+### Hi there! I'm Lívia Fernandes 👋😀!!  Welcome to my page!
 
 <div> - 🌱 I’m currently learning devolelopment code, veterinary medicine. </div>
 <div>- 💬 Ask me about animals, coding, music and sport. </div>

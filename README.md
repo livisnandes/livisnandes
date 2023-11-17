@@ -2,7 +2,6 @@
 
 <div> - 🌱 I’m currently learning devolelopment code, veterinary medicine. </div>
 <div>- 💬 Ask me about animals, coding, music and sport. </div>
-<div>- 📫 How to reach me: meeting, working, contracts.</div>
 <div>- 😄 Pronouns: she/her </div>
 <div>- ⚡ Define me: faith, play guitar, ride a horse, tricot, ballet, books, contrylife, music. </div>
 <div>- 🌼 Always learning on life! </div>

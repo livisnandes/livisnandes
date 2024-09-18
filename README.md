@@ -4,7 +4,7 @@
 <div>- 💬 Ask me about animals, coding, music and sport. </div>
 <div>- 😄 Pronouns: she/her </div>
 <div>- ⚡ Define me: faith, play guitar, ride a horse, tricot, ballet, books, contrylife, music. </div>
-<div>- 🌼 Always learning on life! </div>
+<div>- 🌼 God on comand the all! Always learning on life, seeking to improve every day! </div>
 
 ##
  <div>

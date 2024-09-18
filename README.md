@@ -2,7 +2,7 @@
 
 <div> - 🌱 I’m currently learning devolelopment code, veterinary medicine. </div>
 <div>- 💬 Ask me about animals, botanic, music and nature. </div>
-<div>- ⚡ Define me: faith, play guitar, ride a horse, tricot, ballet, books, contrylife, music. </div>
+<div>- ⚡ Define me: faith, catholicism,  play guitar, ride a horse, tricot, ballet, books, contrylife, music. </div>
 <div>- 🌼 God on comand the all! Always learning on life, seeking to improve every day! </div>
 
 ##
